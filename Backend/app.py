@@ -24,7 +24,7 @@ def input_form():
 
 #Go to This Link and Click Accept to Activate
 #It uses the Access Token
-#https://accounts.zoho.in/oauth/v2/auth?response_type=code&client_id=1000.H8U3OC2MZZNWYBTVI37HKTVHZQL2BH&scope=Desk.tickets.ALL&redirect_uri=http://127.0.0.1:5000/zoho/oauth/&state=randomstring123
+#https://accounts.zoho.in/oauth/v2/auth?response_type=code&client_id=1000.H8U3OC2MZZNWYBTVI37HKTVHZQL2BH&scope=Desk.tickets.READ&redirect_uri=http://127.0.0.1:5000/zoho/oauth/&state=randomstring123
 
 @app.route('/zoho/oauth/')
 def zoho_oauth_callback():
@@ -37,7 +37,7 @@ def zoho_oauth_callback():
     access_token = request_zoho.get_access_token(access_code)
     logging.info(f"Access token obtained: {access_token}")
 
-    ticket_data = request_zoho.get_ticket_data(access_token)
+    ticket_data = request_zoho.get_ticket_ids(access_token)
 
     # Print out as CSV
     df = pd.DataFrame(ticket_data['data'])
