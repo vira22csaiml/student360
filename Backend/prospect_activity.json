@@ -1,0 +1,1043 @@
+[
+    {
+        "Id": "ec403d48-6c92-4a90-b6fa-4fe1701cb506",
+        "EventCode": 3011,
+        "EventName": "WhatsApp Message",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-04-04 16:39:47",
+        "ActivityType": 101,
+        "IsEmailType": false,
+        "Type": "Logs",
+        "SessionId": "",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "Event",
+                "Value": "Update"
+            },
+            {
+                "Key": "OldData",
+                "Value": "{\"Status\":\"sent\",\"mx_Custom_1\":\"2025-04-04 12:10:25\"}"
+            },
+            {
+                "Key": "NewData",
+                "Value": "{\"Status\":\"FAILED\",\"mx_Custom_1\":\"2025-04-04 12:10:28\"}"
+            },
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "CreatedBy",
+                "Value": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+            },
+            {
+                "Key": "Notes",
+                "Value": "{\"IsAsync\" : False}"
+            },
+            {
+                "Key": "EventTime",
+                "Value": "4/4/2025 4:39:47 PM"
+            }
+        ],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "2025-04-04 16:39:47"
+    },
+    {
+        "Id": "42da2245-2bfe-4a07-9c38-fc8d8b65b833",
+        "EventCode": 3011,
+        "EventName": "WhatsApp Message",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-04-04 15:44:44",
+        "ActivityType": 101,
+        "IsEmailType": false,
+        "Type": "Logs",
+        "SessionId": "",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "Event",
+                "Value": "Update"
+            },
+            {
+                "Key": "OldData",
+                "Value": "{\"Status\":\"sent\",\"mx_Custom_1\":\"2025-04-04 11:47:24\"}"
+            },
+            {
+                "Key": "NewData",
+                "Value": "{\"Status\":\"FAILED\",\"mx_Custom_1\":\"2025-04-04 11:47:25\"}"
+            },
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "CreatedBy",
+                "Value": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+            },
+            {
+                "Key": "Notes",
+                "Value": "{\"IsAsync\" : False}"
+            },
+            {
+                "Key": "EventTime",
+                "Value": "4/4/2025 3:44:44 PM"
+            }
+        ],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "2025-04-04 15:44:44"
+    },
+    {
+        "Id": "ec403d48-6c92-4a90-b6fa-4fe1701cb506",
+        "EventCode": 222,
+        "EventName": "WhatsApp Message",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-04-04 12:10:26",
+        "ActivityType": 2,
+        "IsEmailType": false,
+        "Type": "Inbound",
+        "SessionId": "ec403d48-6c92-4a90-b6fa-4fe1701cb506",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "EventName",
+                "Value": "WhatsApp Message"
+            },
+            {
+                "Key": "NotableEventDescription",
+                "Value": "webinaerai5thapril2025: Live Session- &#x1D406;&#x1D41E;&#x1D427; &#x1D400;&#x1D408; &#x1D411;&#x1D428;&#x1D41A;&#x1D41D;&#x1D426;&#x1D41A;&#x1D429; &#x1D41F;&#x1D428;&#x1D42B; &#x1D403;&#x1D41A;&#x1D42D;&#x1D41A; &#x1D404;&#x1D427;&#x1D420;&#x1D422;&#x1D427;&#x1D41E;&#x1D41E;&#x1D42B;&#x1D42C; ( 1 Hour Session )\n\nA very &#x1D408;&#x1D426;&#x1D429;&#x1D428;&#x1D42B;&#x1D42D;&#x1D41A;&#x1D427;&#x1D42D; &#x1D40B;&#x1D422;&#x1D42F;&#x1D41E; &#x1D412;&#x1D41E;&#x1D42C;&#x1D42C;&#x1D422;&#x1D428;&#x1D427; by Sumit Sir\n\n&#x1D403;&#x1D41A;&#x1D42D;&#x1D41E;: 5th April 2025, Saturday\n&#x1D413;&#x1D422;&#x1D426;&#x1D41E;: 11.30 am (IST)\n\n&#x1D413;&#x1D428; &#x1D402;&#x1D428;&#x1D427;&#x1D41F;&#x1D422;&#x1D42B;&#x1D426; &#x1D418;&#x1D428;&#x1D42E;&#x1D42B; &#x1D412;&#x1D429;&#x1D428;&#x1D42D;, &#x1D42B;&#x1D41E;&#x1D420;&#x1D422;&#x1D42C;&#x1D42D;&#x1D41E;&#x1D42B; &#x1D428;&#x1D427; &#x1D42D;&#x1D421;&#x1D41E; &#x1D41B;&#x1D41E;&#x1D425;&#x1D428;&#x1D430; &#x1D419;&#x1D428;&#x1D428;&#x1D426; &#x1D40B;&#x1D422;&#x1D427;&#x1D424; &#x1F447;  https://us06web.zoom.us/meeting/register/tSFt1Qk9TQO_pf1TCn4uJA\n\nAlso Join WhatsApp Community Group for Session Updates.\nhttps://chat.whatsapp.com/GfQ9PRxvteVH5TpnX8Qyu1\n\nThis session will be Live Only & will not be uploaded on learning&#xA0;portal."
+            },
+            {
+                "Key": "HasAttachments",
+                "Value": "False"
+            }
+        ],
+        "ActivityFields": {
+            "ProspectActivityAutoId": "8328962",
+            "ActivityEvent_Note": "webinaerai5thapril2025: Live Session- &#x1D406;&#x1D41E;&#x1D427; &#x1D400;&#x1D408; &#x1D411;&#x1D428;&#x1D41A;&#x1D41D;&#x1D426;&#x1D41A;&#x1D429; &#x1D41F;&#x1D428;&#x1D42B; &#x1D403;&#x1D41A;&#x1D42D;&#x1D41A; &#x1D404;&#x1D427;&#x1D420;&#x1D422;&#x1D427;&#x1D41E;&#x1D41E;&#x1D42B;&#x1D42C; ( 1 Hour Session )\n\nA very &#x1D408;&#x1D426;&#x1D429;&#x1D428;&#x1D42B;&#x1D42D;&#x1D41A;&#x1D427;&#x1D42D; &#x1D40B;&#x1D422;&#x1D42F;&#x1D41E; &#x1D412;&#x1D41E;&#x1D42C;&#x1D42C;&#x1D422;&#x1D428;&#x1D427; by Sumit Sir\n\n&#x1D403;&#x1D41A;&#x1D42D;&#x1D41E;: 5th April 2025, Saturday\n&#x1D413;&#x1D422;&#x1D426;&#x1D41E;: 11.30 am (IST)\n\n&#x1D413;&#x1D428; &#x1D402;&#x1D428;&#x1D427;&#x1D41F;&#x1D422;&#x1D42B;&#x1D426; &#x1D418;&#x1D428;&#x1D42E;&#x1D42B; &#x1D412;&#x1D429;&#x1D428;&#x1D42D;, &#x1D42B;&#x1D41E;&#x1D420;&#x1D422;&#x1D42C;&#x1D42D;&#x1D41E;&#x1D42B; &#x1D428;&#x1D427; &#x1D42D;&#x1D421;&#x1D41E; &#x1D41B;&#x1D41E;&#x1D425;&#x1D428;&#x1D430; &#x1D419;&#x1D428;&#x1D428;&#x1D426; &#x1D40B;&#x1D422;&#x1D427;&#x1D424; &#x1F447;  https://us06web.zoom.us/meeting/register/tSFt1Qk9TQO_pf1TCn4uJA\n\nAlso Join WhatsApp Community Group for Session Updates.\nhttps://chat.whatsapp.com/GfQ9PRxvteVH5TpnX8Qyu1\n\nThis session will be Live Only & will not be uploaded on learning&#xA0;portal.",
+            "CreatedOn": "4/4/2025 12:10:26 PM",
+            "ModifiedOn": "4/4/2025 4:39:47 PM",
+            "CreatedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5",
+            "mx_Custom_1": "2025-04-04 12:10:28",
+            "mx_Custom_2": "Outbound",
+            "Status": "FAILED",
+            "Owner": "7d4446d7-5044-11ed-8f95-02cee9421788",
+            "ModifiedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+        },
+        "ModifiedOn": "2025-04-04 16:39:47"
+    },
+    {
+        "Id": "42da2245-2bfe-4a07-9c38-fc8d8b65b833",
+        "EventCode": 222,
+        "EventName": "WhatsApp Message",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-04-04 11:47:25",
+        "ActivityType": 2,
+        "IsEmailType": false,
+        "Type": "Inbound",
+        "SessionId": "42da2245-2bfe-4a07-9c38-fc8d8b65b833",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "EventName",
+                "Value": "WhatsApp Message"
+            },
+            {
+                "Key": "NotableEventDescription",
+                "Value": "5thapril2025webinar1daytogo: Live Session- &#x1D406;&#x1D41E;&#x1D427; &#x1D400;&#x1D408; &#x1D411;&#x1D428;&#x1D41A;&#x1D41D;&#x1D426;&#x1D41A;&#x1D429; &#x1D41F;&#x1D428;&#x1D42B; &#x1D403;&#x1D41A;&#x1D42D;&#x1D41A; &#x1D404;&#x1D427;&#x1D420;&#x1D422;&#x1D427;&#x1D41E;&#x1D41E;&#x1D42B;&#x1D42C; ( 1 Hour Session )\n\nA very &#x1D408;&#x1D426;&#x1D429;&#x1D428;&#x1D42B;&#x1D42D;&#x1D41A;&#x1D427;&#x1D42D; &#x1D40B;&#x1D422;&#x1D42F;&#x1D41E; &#x1D412;&#x1D41E;&#x1D42C;&#x1D42C;&#x1D422;&#x1D428;&#x1D427; by Sumit Sir\n\n&#x1D403;&#x1D41A;&#x1D42D;&#x1D41E;: 5th April 2025, Saturday\n&#x1D413;&#x1D422;&#x1D426;&#x1D41E;: 11.30 am (IST)\n\n&#x1D413;&#x1D428; &#x1D402;&#x1D428;&#x1D427;&#x1D41F;&#x1D422;&#x1D42B;&#x1D426; &#x1D418;&#x1D428;&#x1D42E;&#x1D42B; &#x1D412;&#x1D429;&#x1D428;&#x1D42D;, &#x1D42B;&#x1D41E;&#x1D420;&#x1D422;&#x1D42C;&#x1D42D;&#x1D41E;&#x1D42B; &#x1D428;&#x1D427; &#x1D42D;&#x1D421;&#x1D41E; &#x1D41B;&#x1D41E;&#x1D425;&#x1D428;&#x1D430; &#x1D419;&#x1D428;&#x1D428;&#x1D426; &#x1D40B;&#x1D422;&#x1D427;&#x1D424; &#x1F447;  https://us06web.zoom.us/meeting/register/tSFt1Qk9TQO_pf1TCn4uJA\n\nAlso Join WhatsApp Community Group for Session Updates.\nhttps://chat.whatsapp.com/GfQ9PRxvteVH5TpnX8Qyu1\n\nThis session will be Live Only & will not be uploaded on learning portal."
+            },
+            {
+                "Key": "HasAttachments",
+                "Value": "False"
+            }
+        ],
+        "ActivityFields": {
+            "ProspectActivityAutoId": "8314504",
+            "ActivityEvent_Note": "5thapril2025webinar1daytogo: Live Session- &#x1D406;&#x1D41E;&#x1D427; &#x1D400;&#x1D408; &#x1D411;&#x1D428;&#x1D41A;&#x1D41D;&#x1D426;&#x1D41A;&#x1D429; &#x1D41F;&#x1D428;&#x1D42B; &#x1D403;&#x1D41A;&#x1D42D;&#x1D41A; &#x1D404;&#x1D427;&#x1D420;&#x1D422;&#x1D427;&#x1D41E;&#x1D41E;&#x1D42B;&#x1D42C; ( 1 Hour Session )\n\nA very &#x1D408;&#x1D426;&#x1D429;&#x1D428;&#x1D42B;&#x1D42D;&#x1D41A;&#x1D427;&#x1D42D; &#x1D40B;&#x1D422;&#x1D42F;&#x1D41E; &#x1D412;&#x1D41E;&#x1D42C;&#x1D42C;&#x1D422;&#x1D428;&#x1D427; by Sumit Sir\n\n&#x1D403;&#x1D41A;&#x1D42D;&#x1D41E;: 5th April 2025, Saturday\n&#x1D413;&#x1D422;&#x1D426;&#x1D41E;: 11.30 am (IST)\n\n&#x1D413;&#x1D428; &#x1D402;&#x1D428;&#x1D427;&#x1D41F;&#x1D422;&#x1D42B;&#x1D426; &#x1D418;&#x1D428;&#x1D42E;&#x1D42B; &#x1D412;&#x1D429;&#x1D428;&#x1D42D;, &#x1D42B;&#x1D41E;&#x1D420;&#x1D422;&#x1D42C;&#x1D42D;&#x1D41E;&#x1D42B; &#x1D428;&#x1D427; &#x1D42D;&#x1D421;&#x1D41E; &#x1D41B;&#x1D41E;&#x1D425;&#x1D428;&#x1D430; &#x1D419;&#x1D428;&#x1D428;&#x1D426; &#x1D40B;&#x1D422;&#x1D427;&#x1D424; &#x1F447;  https://us06web.zoom.us/meeting/register/tSFt1Qk9TQO_pf1TCn4uJA\n\nAlso Join WhatsApp Community Group for Session Updates.\nhttps://chat.whatsapp.com/GfQ9PRxvteVH5TpnX8Qyu1\n\nThis session will be Live Only & will not be uploaded on learning portal.",
+            "CreatedOn": "4/4/2025 11:47:25 AM",
+            "ModifiedOn": "4/4/2025 3:44:44 PM",
+            "CreatedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5",
+            "mx_Custom_1": "2025-04-04 11:47:25",
+            "mx_Custom_2": "Outbound",
+            "Status": "FAILED",
+            "Owner": "7d4446d7-5044-11ed-8f95-02cee9421788",
+            "ModifiedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+        },
+        "ModifiedOn": "2025-04-04 15:44:44"
+    },
+    {
+        "Id": "4df3ccbe-10da-494e-bb41-3ecd232ab921",
+        "EventCode": 222,
+        "EventName": "WhatsApp Message",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-04-04 05:46:36",
+        "ActivityType": 2,
+        "IsEmailType": false,
+        "Type": "Inbound",
+        "SessionId": "4df3ccbe-10da-494e-bb41-3ecd232ab921",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "EventName",
+                "Value": "WhatsApp Message"
+            },
+            {
+                "Key": "NotableEventDescription",
+                "Value": "5thapril2025webinar1daytogo: Live Session- &#x1D406;&#x1D41E;&#x1D427; &#x1D400;&#x1D408; &#x1D411;&#x1D428;&#x1D41A;&#x1D41D;&#x1D426;&#x1D41A;&#x1D429; &#x1D41F;&#x1D428;&#x1D42B; &#x1D403;&#x1D41A;&#x1D42D;&#x1D41A; &#x1D404;&#x1D427;&#x1D420;&#x1D422;&#x1D427;&#x1D41E;&#x1D41E;&#x1D42B;&#x1D42C; ( 1 Hour Session )\n\nA very &#x1D408;&#x1D426;&#x1D429;&#x1D428;&#x1D42B;&#x1D42D;&#x1D41A;&#x1D427;&#x1D42D; &#x1D40B;&#x1D422;&#x1D42F;&#x1D41E; &#x1D412;&#x1D41E;&#x1D42C;&#x1D42C;&#x1D422;&#x1D428;&#x1D427; by Sumit Sir\n\n&#x1D403;&#x1D41A;&#x1D42D;&#x1D41E;: 5th April 2025, Saturday\n&#x1D413;&#x1D422;&#x1D426;&#x1D41E;: 11.30 am (IST)\n\n&#x1D413;&#x1D428; &#x1D402;&#x1D428;&#x1D427;&#x1D41F;&#x1D422;&#x1D42B;&#x1D426; &#x1D418;&#x1D428;&#x1D42E;&#x1D42B; &#x1D412;&#x1D429;&#x1D428;&#x1D42D;, &#x1D42B;&#x1D41E;&#x1D420;&#x1D422;&#x1D42C;&#x1D42D;&#x1D41E;&#x1D42B; &#x1D428;&#x1D427; &#x1D42D;&#x1D421;&#x1D41E; &#x1D41B;&#x1D41E;&#x1D425;&#x1D428;&#x1D430; &#x1D419;&#x1D428;&#x1D428;&#x1D426; &#x1D40B;&#x1D422;&#x1D427;&#x1D424; &#x1F447;  https://us06web.zoom.us/meeting/register/tSFt1Qk9TQO_pf1TCn4uJA\n\nAlso Join WhatsApp Community Group for Session Updates.\nhttps://chat.whatsapp.com/GfQ9PRxvteVH5TpnX8Qyu1\n\nThis session will be Live Only & will not be uploaded on learning&#xA0;portal."
+            },
+            {
+                "Key": "HasAttachments",
+                "Value": "False"
+            }
+        ],
+        "ActivityFields": {
+            "ProspectActivityAutoId": "8298707",
+            "ActivityEvent_Note": "5thapril2025webinar1daytogo: Live Session- &#x1D406;&#x1D41E;&#x1D427; &#x1D400;&#x1D408; &#x1D411;&#x1D428;&#x1D41A;&#x1D41D;&#x1D426;&#x1D41A;&#x1D429; &#x1D41F;&#x1D428;&#x1D42B; &#x1D403;&#x1D41A;&#x1D42D;&#x1D41A; &#x1D404;&#x1D427;&#x1D420;&#x1D422;&#x1D427;&#x1D41E;&#x1D41E;&#x1D42B;&#x1D42C; ( 1 Hour Session )\n\nA very &#x1D408;&#x1D426;&#x1D429;&#x1D428;&#x1D42B;&#x1D42D;&#x1D41A;&#x1D427;&#x1D42D; &#x1D40B;&#x1D422;&#x1D42F;&#x1D41E; &#x1D412;&#x1D41E;&#x1D42C;&#x1D42C;&#x1D422;&#x1D428;&#x1D427; by Sumit Sir\n\n&#x1D403;&#x1D41A;&#x1D42D;&#x1D41E;: 5th April 2025, Saturday\n&#x1D413;&#x1D422;&#x1D426;&#x1D41E;: 11.30 am (IST)\n\n&#x1D413;&#x1D428; &#x1D402;&#x1D428;&#x1D427;&#x1D41F;&#x1D422;&#x1D42B;&#x1D426; &#x1D418;&#x1D428;&#x1D42E;&#x1D42B; &#x1D412;&#x1D429;&#x1D428;&#x1D42D;, &#x1D42B;&#x1D41E;&#x1D420;&#x1D422;&#x1D42C;&#x1D42D;&#x1D41E;&#x1D42B; &#x1D428;&#x1D427; &#x1D42D;&#x1D421;&#x1D41E; &#x1D41B;&#x1D41E;&#x1D425;&#x1D428;&#x1D430; &#x1D419;&#x1D428;&#x1D428;&#x1D426; &#x1D40B;&#x1D422;&#x1D427;&#x1D424; &#x1F447;  https://us06web.zoom.us/meeting/register/tSFt1Qk9TQO_pf1TCn4uJA\n\nAlso Join WhatsApp Community Group for Session Updates.\nhttps://chat.whatsapp.com/GfQ9PRxvteVH5TpnX8Qyu1\n\nThis session will be Live Only & will not be uploaded on learning&#xA0;portal.",
+            "CreatedOn": "4/4/2025 5:46:36 AM",
+            "ModifiedOn": "4/4/2025 5:46:36 AM",
+            "CreatedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5",
+            "mx_Custom_1": "2025-04-04 05:46:34",
+            "mx_Custom_2": "Outbound",
+            "Status": "sent",
+            "Owner": "7d4446d7-5044-11ed-8f95-02cee9421788",
+            "ModifiedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+        },
+        "ModifiedOn": "2025-04-04 05:46:36"
+    },
+    {
+        "Id": "db635977-8cda-4fd7-90e3-227de6458d03",
+        "EventCode": 2001,
+        "EventName": "EmailSent",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-04-03 12:09:07",
+        "ActivityType": 25,
+        "IsEmailType": true,
+        "Type": "Outbound",
+        "EmailType": "Email Campaign",
+        "SessionId": "1d302e8e-1c56-11f0-9dc7-02c6457c436b",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "FullName",
+                "Value": ""
+            },
+            {
+                "Key": "EmailAddress",
+                "Value": ""
+            },
+            {
+                "Key": "Subject",
+                "Value": "Live Session- \ud835\udc06\ud835\udc1e\ud835\udc27 \ud835\udc00\ud835\udc08 \ud835\udc11\ud835\udc28\ud835\udc1a\ud835\udc1d\ud835\udc26\ud835\udc1a\ud835\udc29 \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a \ud835\udc04\ud835\udc27\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1e\ud835\udc2b\ud835\udc2c ( 1 Hour Session )"
+            },
+            {
+                "Key": "FromUserName",
+                "Value": "Siya Khedekar<siya@trendytech.in>"
+            }
+        ],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "2025-04-03 12:09:07"
+    },
+    {
+        "Id": "b4c5950e-0a4d-11f0-bb9f-06463bf65549",
+        "EventCode": 3002,
+        "EventName": "StageChange",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-03-26 14:22:11",
+        "ActivityType": 26,
+        "IsEmailType": false,
+        "Type": "Information",
+        "SessionId": "1d31d8ec-1c56-11f0-9dc7-02c6457c436b",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "PreviousStage",
+                "Value": "Customer"
+            },
+            {
+                "Key": "CurrentStage",
+                "Value": "Cust-Reenquire"
+            },
+            {
+                "Key": "CreatedBy",
+                "Value": "System"
+            },
+            {
+                "Key": "Comment",
+                "Value": "{\"ActionType\":\"500\",\"Id\":\"153_UpdateLead128\"}"
+            }
+        ],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "0001-01-01 00:00:00"
+    },
+    {
+        "Id": "19be1ac1-ac6c-4fec-b3f0-e72d2104a605",
+        "EventCode": 225,
+        "EventName": "Elementor Form Submission",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-03-26 14:21:58",
+        "ActivityType": 2,
+        "IsEmailType": false,
+        "Type": "Inbound",
+        "SessionId": "19be1ac1-ac6c-4fec-b3f0-e72d2104a605",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "EventName",
+                "Value": "Elementor Form Submission"
+            },
+            {
+                "Key": "NotableEventDescription",
+                "Value": ""
+            },
+            {
+                "Key": "HasAttachments",
+                "Value": "False"
+            }
+        ],
+        "ActivityFields": {
+            "ProspectActivityAutoId": "8050448",
+            "CreatedOn": "3/26/2025 2:21:58 PM",
+            "ModifiedOn": "3/26/2025 2:21:58 PM",
+            "CreatedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5",
+            "mx_Custom_1": "Venkata",
+            "mx_Custom_2": "+12134223860",
+            "mx_Custom_3": "kakula.mst@gmail.com",
+            "mx_Custom_5": "Website",
+            "mx_Custom_7": "Website",
+            "mx_Custom_8": "Contact Form",
+            "mx_Custom_9": "Website",
+            "Status": "Active",
+            "ModifiedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+        },
+        "ModifiedOn": "2025-03-26 14:21:58"
+    },
+    {
+        "Id": "643964a8-7a80-4559-94f5-8609927a2b5c",
+        "EventCode": 23,
+        "EventName": "Lead Capture",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-03-26 14:21:52",
+        "ActivityType": 5,
+        "IsEmailType": false,
+        "Type": "Inbound",
+        "SessionId": "954b9e37-6028-4f68-9865-f14180650d78",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "2025-03-26 14:21:53"
+    },
+    {
+        "Id": "93592986-ef09-424f-9fe5-6997645146b4",
+        "EventCode": 23,
+        "EventName": "Lead Capture",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-03-26 14:21:51",
+        "ActivityType": 5,
+        "IsEmailType": false,
+        "Type": "Inbound",
+        "SessionId": "93592986-ef09-424f-9fe5-6997645146b4",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [],
+        "ModifiedOn": "2025-03-26 14:21:51"
+    },
+    {
+        "Id": "f4bd0030-cbe3-47b3-9a75-2e50f211d38f",
+        "EventCode": 12000,
+        "EventName": "Course Interested",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-02-12 06:22:16",
+        "ActivityType": 2,
+        "IsEmailType": false,
+        "Type": "Inbound",
+        "SessionId": "f4bd0030-cbe3-47b3-9a75-2e50f211d38f",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "CreatedByName",
+                "Value": "Seema"
+            },
+            {
+                "Key": "EventName",
+                "Value": "Course Interested"
+            },
+            {
+                "Key": "NotableEventDescription",
+                "Value": ""
+            },
+            {
+                "Key": "HasAttachments",
+                "Value": "False"
+            }
+        ],
+        "ActivityFields": {
+            "ProspectActivityAutoId": "7874518",
+            "CreatedOn": "2/12/2025 6:22:16 AM",
+            "ModifiedOn": "2/12/2025 6:22:16 AM",
+            "CreatedBy": "7d4446d7-5044-11ed-8f95-02cee9421788",
+            "mx_Custom_1": "Venkata Akula - Superstar Data Engineering Program",
+            "Status": "Won",
+            "Owner": "c698f14a-b221-11ef-9fcf-06463bf65549",
+            "ModifiedBy": "7d4446d7-5044-11ed-8f95-02cee9421788"
+        },
+        "ModifiedOn": "2025-02-12 06:22:16"
+    },
+    {
+        "Id": "3d17b78f-4325-47ea-b43d-758501f3cd90",
+        "EventCode": 222,
+        "EventName": "WhatsApp Message",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-25 04:30:22",
+        "ActivityType": 2,
+        "IsEmailType": false,
+        "Type": "Inbound",
+        "SessionId": "3d17b78f-4325-47ea-b43d-758501f3cd90",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "EventName",
+                "Value": "WhatsApp Message"
+            },
+            {
+                "Key": "NotableEventDescription",
+                "Value": "25thjan2025webinarfinalcallreg: Final Call for LIVE SESSION by Sumit Sir at 11.30 a.m (IST) Today.\n\nSumit Sir will talk about :\n\n*Why he came up with new S-25 Data Engineering Program*\n\n*What's New in S-25 Data Engineering Program in comparison to Ultimate Big Data Masters Program*\n\nIf not yet Registered click on the below Zoom Link &#x1F447; (Limited Spots Left)\n\nhttps://us06web.zoom.us/meeting/register/iyun2Z3UT8CQEytHosamGg"
+            },
+            {
+                "Key": "HasAttachments",
+                "Value": "False"
+            }
+        ],
+        "ActivityFields": {
+            "ProspectActivityAutoId": "7523051",
+            "ActivityEvent_Note": "25thjan2025webinarfinalcallreg: Final Call for LIVE SESSION by Sumit Sir at 11.30 a.m (IST) Today.\n\nSumit Sir will talk about :\n\n*Why he came up with new S-25 Data Engineering Program*\n\n*What's New in S-25 Data Engineering Program in comparison to Ultimate Big Data Masters Program*\n\nIf not yet Registered click on the below Zoom Link &#x1F447; (Limited Spots Left)\n\nhttps://us06web.zoom.us/meeting/register/iyun2Z3UT8CQEytHosamGg",
+            "CreatedOn": "1/25/2025 4:30:22 AM",
+            "ModifiedOn": "1/25/2025 4:30:22 AM",
+            "CreatedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5",
+            "mx_Custom_1": "2025-01-25 04:30:21",
+            "mx_Custom_2": "Outbound",
+            "Status": "sent",
+            "Owner": "7d4446d7-5044-11ed-8f95-02cee9421788",
+            "ModifiedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+        },
+        "ModifiedOn": "2025-01-25 04:30:22"
+    },
+    {
+        "Id": "d496865f-6525-4809-a3ef-0d02d56cd255",
+        "EventCode": 3011,
+        "EventName": "WhatsApp Message",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-24 13:51:24",
+        "ActivityType": 101,
+        "IsEmailType": false,
+        "Type": "Logs",
+        "SessionId": "",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "Event",
+                "Value": "Update"
+            },
+            {
+                "Key": "OldData",
+                "Value": "{\"Status\":\"sent\",\"mx_Custom_1\":\"2025-01-24 13:36:47\"}"
+            },
+            {
+                "Key": "NewData",
+                "Value": "{\"Status\":\"FAILED\",\"mx_Custom_1\":\"2025-01-24 13:36:48\"}"
+            },
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "CreatedBy",
+                "Value": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+            },
+            {
+                "Key": "Notes",
+                "Value": "{\"IsAsync\" : False}"
+            },
+            {
+                "Key": "EventTime",
+                "Value": "1/24/2025 1:51:24 PM"
+            }
+        ],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "2025-01-24 13:51:24"
+    },
+    {
+        "Id": "d496865f-6525-4809-a3ef-0d02d56cd255",
+        "EventCode": 222,
+        "EventName": "WhatsApp Message",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-24 13:36:47",
+        "ActivityType": 2,
+        "IsEmailType": false,
+        "Type": "Inbound",
+        "SessionId": "d496865f-6525-4809-a3ef-0d02d56cd255",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "EventName",
+                "Value": "WhatsApp Message"
+            },
+            {
+                "Key": "NotableEventDescription",
+                "Value": "webinar25thjan20251dayeve: \"Exclusive Ultimate Students Webinar by Sumit Sir TOMORROW\n\nSaturday 25th Jan. @ 11:30 AM (IST)\n\nSumit Sir will talk about :\n\n*Why he came up with new S-25 Data Engineering Program*\n\n*What's New in S-25 Data Engineering Program in comparison to Ultimate Big Data Masters Program*\n\nTo confirm your slot in Webinar, please fill below Zoom registration form &#x1F447;\n\nhttps://us06web.zoom.us/meeting/register/iyun2Z3UT8CQEytHosamGg\""
+            },
+            {
+                "Key": "HasAttachments",
+                "Value": "False"
+            }
+        ],
+        "ActivityFields": {
+            "ProspectActivityAutoId": "7515500",
+            "ActivityEvent_Note": "webinar25thjan20251dayeve: \"Exclusive Ultimate Students Webinar by Sumit Sir TOMORROW\n\nSaturday 25th Jan. @ 11:30 AM (IST)\n\nSumit Sir will talk about :\n\n*Why he came up with new S-25 Data Engineering Program*\n\n*What's New in S-25 Data Engineering Program in comparison to Ultimate Big Data Masters Program*\n\nTo confirm your slot in Webinar, please fill below Zoom registration form &#x1F447;\n\nhttps://us06web.zoom.us/meeting/register/iyun2Z3UT8CQEytHosamGg\"",
+            "CreatedOn": "1/24/2025 1:36:47 PM",
+            "ModifiedOn": "1/24/2025 1:51:24 PM",
+            "CreatedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5",
+            "mx_Custom_1": "2025-01-24 13:36:48",
+            "mx_Custom_2": "Outbound",
+            "Status": "FAILED",
+            "Owner": "7d4446d7-5044-11ed-8f95-02cee9421788",
+            "ModifiedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+        },
+        "ModifiedOn": "2025-01-24 13:51:24"
+    },
+    {
+        "Id": "a25756d3-7a06-4076-ae5a-f53f57254c77",
+        "EventCode": 3011,
+        "EventName": "WhatsApp Message",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-24 06:07:14",
+        "ActivityType": 101,
+        "IsEmailType": false,
+        "Type": "Logs",
+        "SessionId": "",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "Event",
+                "Value": "Update"
+            },
+            {
+                "Key": "OldData",
+                "Value": "{\"Status\":\"sent\",\"mx_Custom_1\":\"2025-01-24 05:42:08\"}"
+            },
+            {
+                "Key": "NewData",
+                "Value": "{\"Status\":\"FAILED\",\"mx_Custom_1\":\"2025-01-24 05:42:09\"}"
+            },
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "CreatedBy",
+                "Value": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+            },
+            {
+                "Key": "Notes",
+                "Value": "{\"IsAsync\" : False}"
+            },
+            {
+                "Key": "EventTime",
+                "Value": "1/24/2025 6:07:14 AM"
+            }
+        ],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "2025-01-24 06:07:14"
+    },
+    {
+        "Id": "a25756d3-7a06-4076-ae5a-f53f57254c77",
+        "EventCode": 222,
+        "EventName": "WhatsApp Message",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-24 05:42:08",
+        "ActivityType": 2,
+        "IsEmailType": false,
+        "Type": "Inbound",
+        "SessionId": "a25756d3-7a06-4076-ae5a-f53f57254c77",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "EventName",
+                "Value": "WhatsApp Message"
+            },
+            {
+                "Key": "NotableEventDescription",
+                "Value": "webinar1daytogo25thjan2025: &#x1D40B;&#x1D422;&#x1D42F;&#x1D41E; &#x1D416;&#x1D41E;&#x1D41B;&#x1D422;&#x1D427;&#x1D41A;&#x1D42B; &#x1D41B;&#x1D432; &#x1D412;&#x1D414;&#x1D40C;&#x1D408;&#x1D413; &#x1D412;&#x1D408;&#x1D411; - &#x1D404;&#x1D431;&#x1D41C;&#x1D425;&#x1D42E;&#x1D42C;&#x1D422;&#x1D42F;&#x1D41E;&#x1D425;&#x1D432; &#x1D41F;&#x1D428;&#x1D42B; &#x1D414;&#x1D425;&#x1D42D;&#x1D422;&#x1D426;&#x1D41A;&#x1D42D;&#x1D41E; &#x1D412;&#x1D42D;&#x1D42E;&#x1D41D;&#x1D41E;&#x1D427;&#x1D42D;&#x1D42C;\nSaturday 25th Jan.\n\nSumit Sir will talk about :\n\n&#x1D416;&#x1D421;&#x1D432; &#x1D421;&#x1D41E; &#x1D41C;&#x1D41A;&#x1D426;&#x1D41E; &#x1D42E;&#x1D429; &#x1D430;&#x1D422;&#x1D42D;&#x1D421; &#x1D427;&#x1D41E;&#x1D430; &#x1D412;-&#x1D7D0;&#x1D7D3; &#x1D403;&#x1D41A;&#x1D42D;&#x1D41A; &#x1D404;&#x1D427;&#x1D420;&#x1D422;&#x1D427;&#x1D41E;&#x1D41E;&#x1D42B;&#x1D422;&#x1D427;&#x1D420; &#x1D40F;&#x1D42B;&#x1D428;&#x1D420;&#x1D42B;&#x1D41A;&#x1D426;\n\n&#x1D416;&#x1D421;&#x1D41A;&#x1D42D;'&#x1D42C; &#x1D40D;&#x1D41E;&#x1D430; &#x1D422;&#x1D427; &#x1D412;-&#x1D7D0;&#x1D7D3; &#x1D403;&#x1D41A;&#x1D42D;&#x1D41A; &#x1D404;&#x1D427;&#x1D420;&#x1D422;&#x1D427;&#x1D41E;&#x1D41E;&#x1D42B;&#x1D422;&#x1D427;&#x1D420; &#x1D40F;&#x1D42B;&#x1D428;&#x1D420;&#x1D42B;&#x1D41A;&#x1D426; &#x1D422;&#x1D427; &#x1D41C;&#x1D428;&#x1D426;&#x1D429;&#x1D41A;&#x1D42B;&#x1D422;&#x1D42C;&#x1D428;&#x1D427; &#x1D42D;&#x1D428; &#x1D414;&#x1D425;&#x1D42D;&#x1D422;&#x1D426;&#x1D41A;&#x1D42D;&#x1D41E; &#x1D401;&#x1D422;&#x1D420; &#x1D403;&#x1D41A;&#x1D42D;&#x1D41A; &#x1D40C;&#x1D41A;&#x1D42C;&#x1D42D;&#x1D41E;&#x1D42B;&#x1D42C; &#x1D40F;&#x1D42B;&#x1D428;&#x1D420;&#x1D42B;&#x1D41A;&#x1D426;\n\nTo confirm your slot in Webinar, please fill below Zoom registration form &#x1F447;\n\nhttps://us06web.zoom.us/meeting/register/iyun2Z3UT8CQEytHosamGg\n\n&#x1F5D3;&#xFE0F; Webinar Date : 25th Jan. 2025\n&#x23F0; Webinar Time : 11:30 AM (IST)"
+            },
+            {
+                "Key": "HasAttachments",
+                "Value": "False"
+            }
+        ],
+        "ActivityFields": {
+            "ProspectActivityAutoId": "7508272",
+            "ActivityEvent_Note": "webinar1daytogo25thjan2025: &#x1D40B;&#x1D422;&#x1D42F;&#x1D41E; &#x1D416;&#x1D41E;&#x1D41B;&#x1D422;&#x1D427;&#x1D41A;&#x1D42B; &#x1D41B;&#x1D432; &#x1D412;&#x1D414;&#x1D40C;&#x1D408;&#x1D413; &#x1D412;&#x1D408;&#x1D411; - &#x1D404;&#x1D431;&#x1D41C;&#x1D425;&#x1D42E;&#x1D42C;&#x1D422;&#x1D42F;&#x1D41E;&#x1D425;&#x1D432; &#x1D41F;&#x1D428;&#x1D42B; &#x1D414;&#x1D425;&#x1D42D;&#x1D422;&#x1D426;&#x1D41A;&#x1D42D;&#x1D41E; &#x1D412;&#x1D42D;&#x1D42E;&#x1D41D;&#x1D41E;&#x1D427;&#x1D42D;&#x1D42C;\nSaturday 25th Jan.\n\nSumit Sir will talk about :\n\n&#x1D416;&#x1D421;&#x1D432; &#x1D421;&#x1D41E; &#x1D41C;&#x1D41A;&#x1D426;&#x1D41E; &#x1D42E;&#x1D429; &#x1D430;&#x1D422;&#x1D42D;&#x1D421; &#x1D427;&#x1D41E;&#x1D430; &#x1D412;-&#x1D7D0;&#x1D7D3; &#x1D403;&#x1D41A;&#x1D42D;&#x1D41A; &#x1D404;&#x1D427;&#x1D420;&#x1D422;&#x1D427;&#x1D41E;&#x1D41E;&#x1D42B;&#x1D422;&#x1D427;&#x1D420; &#x1D40F;&#x1D42B;&#x1D428;&#x1D420;&#x1D42B;&#x1D41A;&#x1D426;\n\n&#x1D416;&#x1D421;&#x1D41A;&#x1D42D;'&#x1D42C; &#x1D40D;&#x1D41E;&#x1D430; &#x1D422;&#x1D427; &#x1D412;-&#x1D7D0;&#x1D7D3; &#x1D403;&#x1D41A;&#x1D42D;&#x1D41A; &#x1D404;&#x1D427;&#x1D420;&#x1D422;&#x1D427;&#x1D41E;&#x1D41E;&#x1D42B;&#x1D422;&#x1D427;&#x1D420; &#x1D40F;&#x1D42B;&#x1D428;&#x1D420;&#x1D42B;&#x1D41A;&#x1D426; &#x1D422;&#x1D427; &#x1D41C;&#x1D428;&#x1D426;&#x1D429;&#x1D41A;&#x1D42B;&#x1D422;&#x1D42C;&#x1D428;&#x1D427; &#x1D42D;&#x1D428; &#x1D414;&#x1D425;&#x1D42D;&#x1D422;&#x1D426;&#x1D41A;&#x1D42D;&#x1D41E; &#x1D401;&#x1D422;&#x1D420; &#x1D403;&#x1D41A;&#x1D42D;&#x1D41A; &#x1D40C;&#x1D41A;&#x1D42C;&#x1D42D;&#x1D41E;&#x1D42B;&#x1D42C; &#x1D40F;&#x1D42B;&#x1D428;&#x1D420;&#x1D42B;&#x1D41A;&#x1D426;\n\nTo confirm your slot in Webinar, please fill below Zoom registration form &#x1F447;\n\nhttps://us06web.zoom.us/meeting/register/iyun2Z3UT8CQEytHosamGg\n\n&#x1F5D3;&#xFE0F; Webinar Date : 25th Jan. 2025\n&#x23F0; Webinar Time : 11:30 AM (IST)",
+            "CreatedOn": "1/24/2025 5:42:08 AM",
+            "ModifiedOn": "1/24/2025 6:07:14 AM",
+            "CreatedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5",
+            "mx_Custom_1": "2025-01-24 05:42:09",
+            "mx_Custom_2": "Outbound",
+            "Status": "FAILED",
+            "Owner": "7d4446d7-5044-11ed-8f95-02cee9421788",
+            "ModifiedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+        },
+        "ModifiedOn": "2025-01-24 06:07:14"
+    },
+    {
+        "Id": "e1182f15-96fd-443b-8fe4-0764d09f7eb3",
+        "EventCode": 2001,
+        "EventName": "EmailSent",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-23 15:24:21",
+        "ActivityType": 25,
+        "IsEmailType": true,
+        "Type": "Outbound",
+        "EmailType": "Email Campaign",
+        "SessionId": "1d305419-1c56-11f0-9dc7-02c6457c436b",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "FullName",
+                "Value": ""
+            },
+            {
+                "Key": "EmailAddress",
+                "Value": ""
+            },
+            {
+                "Key": "Subject",
+                "Value": "Live Webinar for Ultimate Big Data Students by SUMIT SIR (25th Jan. @ 11:30 AM)"
+            },
+            {
+                "Key": "FromUserName",
+                "Value": "Siya Khedekar<siya@trendytech.in>"
+            }
+        ],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "2025-01-23 15:24:21"
+    },
+    {
+        "Id": "77e0f146-4bf8-4363-afca-309bfb22527d",
+        "EventCode": 3011,
+        "EventName": "Course Interested",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-20 03:00:56",
+        "ActivityType": 101,
+        "IsEmailType": false,
+        "Type": "Logs",
+        "SessionId": "",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "Event",
+                "Value": "Update"
+            },
+            {
+                "Key": "OldData",
+                "Value": "{\"Owner\":\"e7d1d1e9-504f-11ed-8f95-02cee9421788\"}"
+            },
+            {
+                "Key": "NewData",
+                "Value": "{\"Owner\":\"c698f14a-b221-11ef-9fcf-06463bf65549\"}"
+            },
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "CreatedBy",
+                "Value": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+            },
+            {
+                "Key": "Notes",
+                "Value": "{\"IsAsync\" : False}"
+            },
+            {
+                "Key": "EventTime",
+                "Value": "1/20/2025 3:00:56 AM"
+            }
+        ],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "2025-01-20 03:00:33"
+    },
+    {
+        "Id": "8a38ce5d-3a9d-4252-8edb-4ccc081bb8df",
+        "EventCode": 3011,
+        "EventName": "Course Interested",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-20 03:00:56",
+        "ActivityType": 101,
+        "IsEmailType": false,
+        "Type": "Logs",
+        "SessionId": "",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "Event",
+                "Value": "Update"
+            },
+            {
+                "Key": "OldData",
+                "Value": "{\"Owner\":\"e7d1d1e9-504f-11ed-8f95-02cee9421788\"}"
+            },
+            {
+                "Key": "NewData",
+                "Value": "{\"Owner\":\"c698f14a-b221-11ef-9fcf-06463bf65549\"}"
+            },
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "CreatedBy",
+                "Value": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+            },
+            {
+                "Key": "Notes",
+                "Value": "{\"IsAsync\" : False}"
+            },
+            {
+                "Key": "EventTime",
+                "Value": "1/20/2025 3:00:56 AM"
+            }
+        ],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "2025-01-20 03:00:33"
+    },
+    {
+        "Id": "b0520fbe-d6da-11ef-9fcf-06463bf65549",
+        "EventCode": 3001,
+        "EventName": "LeadAssigned",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-20 03:00:21",
+        "ActivityType": 26,
+        "IsEmailType": false,
+        "Type": "Information",
+        "SessionId": "1d31da60-1c56-11f0-9dc7-02c6457c436b",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "PreviousOwner",
+                "Value": "Maneesha"
+            },
+            {
+                "Key": "CurrentOwner",
+                "Value": "Siya Khedekar"
+            },
+            {
+                "Key": "CreatedBy",
+                "Value": "Seema"
+            }
+        ],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "0001-01-01 00:00:00"
+    },
+    {
+        "Id": "5c9202b1-b0ad-41dd-8fdb-57213eee0d87",
+        "EventCode": 3011,
+        "EventName": "08 Registration Form Filled",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-10 16:20:31",
+        "ActivityType": 101,
+        "IsEmailType": false,
+        "Type": "Logs",
+        "SessionId": "",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "Event",
+                "Value": "Update"
+            },
+            {
+                "Key": "OldData",
+                "Value": "{\"mx_Custom_2\":\"Karthik\",\"mx_Custom_6\":\"\",\"mx_Custom_8\":\"\"}"
+            },
+            {
+                "Key": "NewData",
+                "Value": "{\"mx_Custom_2\":\"Venkata\",\"mx_Custom_6\":\"Superstar Data Engineering Program\",\"mx_Custom_8\":\"https://www.linkedin.com/in/venkata-karthik-akula-ms-mba\"}"
+            },
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "CreatedBy",
+                "Value": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+            },
+            {
+                "Key": "Notes",
+                "Value": "{\"IsAsync\" : False}"
+            },
+            {
+                "Key": "EventTime",
+                "Value": "1/10/2025 4:20:31 PM"
+            }
+        ],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "2025-01-10 16:20:30"
+    },
+    {
+        "Id": "6850deb5-16f0-4618-970c-0916b079a670",
+        "EventCode": 23,
+        "EventName": "Lead Capture",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-10 16:20:24",
+        "ActivityType": 5,
+        "IsEmailType": false,
+        "Type": "Inbound",
+        "SessionId": "54446a88-eed2-4688-9955-e514b6c29d82",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "2025-01-10 16:20:25"
+    },
+    {
+        "Id": "3f4c1b01-dc51-40ea-84b5-b9ce0085172f",
+        "EventCode": 0,
+        "EventName": "Email Opened",
+        "ActivityScore": 1,
+        "CreatedOn": "2025-01-10 14:32:03",
+        "ActivityType": 0,
+        "IsEmailType": true,
+        "Type": "Inbound",
+        "EmailType": "Email Campaign",
+        "SessionId": "a86c762b-cf5f-11ef-9fcf-06463bf65549",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "EmailCampaignName",
+                "Value": "Ai Batch starting tomorrow"
+            },
+            {
+                "Key": "Subject",
+                "Value": "\ud835\udfcf\ud835\udc2c\ud835\udc2d \ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc2b \ud835\udc00\ud835\udc08 \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a \ud835\udc04\ud835\udc27\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1e\ud835\udc2b\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26 \ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc2b\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2d\ud835\udc28\ud835\udc26\ud835\udc28\ud835\udc2b\ud835\udc2b\ud835\udc28\ud835\udc30 (\ud835\udfcf\ud835\udfcf\ud835\udc2d\ud835\udc21 \ud835\udc09\ud835\udc1a\ud835\udc27. @ \ud835\udfd4\ud835\udc0f\ud835\udc0c \ud835\udc08\ud835\udc12\ud835\udc13)"
+            },
+            {
+                "Key": "EmailCampaignId",
+                "Value": "ef5c06a4-cf2e-11ef-9fcf-06463bf65549"
+            }
+        ],
+        "ModifiedOn": "2025-01-10 14:32:02"
+    },
+    {
+        "Id": "bca50143-2d20-4a01-89bd-07950b8fdeff",
+        "EventCode": 2001,
+        "EventName": "EmailSent",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-10 08:55:22",
+        "ActivityType": 25,
+        "IsEmailType": true,
+        "Type": "Outbound",
+        "EmailType": "Email Campaign",
+        "SessionId": "1d300d62-1c56-11f0-9dc7-02c6457c436b",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "FullName",
+                "Value": ""
+            },
+            {
+                "Key": "EmailAddress",
+                "Value": ""
+            },
+            {
+                "Key": "Subject",
+                "Value": "\ud835\udfcf\ud835\udc2c\ud835\udc2d \ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc2b \ud835\udc00\ud835\udc08 \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a \ud835\udc04\ud835\udc27\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1e\ud835\udc2b\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26 \ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc2b\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2d\ud835\udc28\ud835\udc26\ud835\udc28\ud835\udc2b\ud835\udc2b\ud835\udc28\ud835\udc30 (\ud835\udfcf\ud835\udfcf\ud835\udc2d\ud835\udc21 \ud835\udc09\ud835\udc1a\ud835\udc27. @ \ud835\udfd4\ud835\udc0f\ud835\udc0c \ud835\udc08\ud835\udc12\ud835\udc13)"
+            },
+            {
+                "Key": "FromUserName",
+                "Value": "Maneesha<maneesha@trendytech.in>"
+            }
+        ],
+        "Address": "",
+        "City": "",
+        "State": "",
+        "Country": "",
+        "ModifiedOn": "2025-01-10 08:55:22"
+    },
+    {
+        "Id": "5293a2a3-4d46-426b-a2cf-534d67b59884",
+        "EventCode": 223,
+        "EventName": "Lead Converted",
+        "ActivityScore": 0,
+        "CreatedOn": "2025-01-08 02:31:03",
+        "ActivityType": 2,
+        "IsEmailType": false,
+        "Type": "Inbound",
+        "SessionId": "5293a2a3-4d46-426b-a2cf-534d67b59884",
+        "TrackLocation": 0,
+        "Latitude": 0,
+        "Longitude": 0,
+        "RelatedProspectId": "eeb6e552-57eb-4d5e-a966-fee613897c8b",
+        "Data": [
+            {
+                "Key": "CreatedByName",
+                "Value": "System"
+            },
+            {
+                "Key": "EventName",
+                "Value": "Lead Converted"
+            },
+            {
+                "Key": "NotableEventDescription",
+                "Value": ""
+            },
+            {
+                "Key": "HasAttachments",
+                "Value": "False"
+            }
+        ],
+        "ActivityFields": {
+            "ProspectActivityAutoId": "7318704",
+            "CreatedOn": "1/8/2025 2:31:03 AM",
+            "ModifiedOn": "1/8/2025 2:31:03 AM",
+            "CreatedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5",
+            "mx_Custom_1": "460",
+            "Status": "Active",
+            "ModifiedBy": "4ab3ca7c-2767-11ed-8755-02b84f9e23c5"
+        },
+        "ModifiedOn": "2025-01-08 02:31:03"
+    }
+]
